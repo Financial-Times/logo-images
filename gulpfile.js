@@ -7,7 +7,7 @@ const fs = require('fs');
 const logoNames = fs.readdirSync('src').filter((file) => {
 
 	// File is an SVG
-	return file.indexOf(".svg") > -1;
+	return file.endsWith(".svg");
 
 }).map((file) => {
 	// Removes .svg extension
