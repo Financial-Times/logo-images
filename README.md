@@ -4,6 +4,13 @@
 
 Image set for all Financial Times product logos
 
+- [Usage](#usage)
+- [Adding or modifying icons](#adding-or-modifying-icons)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Licence](#licence)
+
+
 ## Usage
 
 As with all image sets, these are available via the [Image Service](https://www.ft.com/__origami/service/image/v2).
@@ -30,10 +37,13 @@ To keep logo images consistent, please follow these guidelines:
 	- **good** brand-financial-times.svg
 	- **bad** BrandFinancialTimes.svg brand_financial_times.svg
 
----
-## Questions or comments?
+----
 
-Please [raise an issue](https://github.com/financial-times/social-images/issues), or Internal FT users can contact us via [#ft-origami in Slack](https://financialtimes.slack.com/messages/ft-origami/).
+## Contact
+
+If you have any questions or comments about this component, or need help using it, please either [raise an issue](https://github.com/Financial-Times/o-component-boilerplate/issues), visit [#ft-origami](https://financialtimes.slack.com/messages/ft-origami/) or email [Origami Support](mailto:origami-support@ft.com).
+
+----
 
 ## Licence
 
