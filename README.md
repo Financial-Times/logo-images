@@ -5,7 +5,7 @@
 Image set for all Financial Times product logos
 
 - [Usage](#usage)
-- [Adding or modifying icons](#adding-or-modifying-icons)
+- [Adding or modifying logos](#adding-or-modifying-logos)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [Licence](#licence)
@@ -17,7 +17,7 @@ As with all image sets, these are available via the [Image Service](https://www.
 
 To get an social logo from the Image Service, use the following URL (replace the `product_source` with your product name and `logo_name` with the logo you want. The list of available logos is in the src folder of this project and in the Registry)
 
-`https://www.ft.com/__origami/service/image/v2/images/raw/ftsocial:{logo_name}?source={product_source}`
+`https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo:{logo_name}?source={product_source}`
 
 So to get the FT masthead:
 `https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo:brand-ft-masthead?source=test`
@@ -27,7 +27,7 @@ So to get the FT masthead:
 
 The Image Service will convert these images on the fly if you pass in the right parameters. To find out more about this, please see the [Image Service documentation](https://www.ft.com/__origami/service/image/v2/docs/api)
 
-## Adding or modifying icons
+## Adding or modifying logos
 
 To keep logo images consistent, please follow these guidelines:
 
@@ -41,7 +41,7 @@ To keep logo images consistent, please follow these guidelines:
 
 ## Contact
 
-If you have any questions or comments about this component, or need help using it, please either [raise an issue](https://github.com/Financial-Times/o-component-boilerplate/issues), visit [#ft-origami](https://financialtimes.slack.com/messages/ft-origami/) or email [Origami Support](mailto:origami-support@ft.com).
+If you have any questions or comments about this component, or need help using it, please either [raise an issue](https://github.com/Financial-Times/logo-images/issues), visit [#ft-origami](https://financialtimes.slack.com/messages/ft-origami/) or email [Origami Support](mailto:origami-support@ft.com).
 
 ----
 
