@@ -17,10 +17,10 @@ As with all image sets, these are available via the [Image Service](https://www.
 
 To get an social logo from the Image Service, use the following URL (replace the `product_source` with your product name and `logo_name` with the logo you want. The list of available logos is in the src folder of this project and in the Registry)
 
-`https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo:{logo_name}?source={product_source}`
+`https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1:{logo_name}?source={product_source}`
 
 So to get the FT masthead:
-`https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo:brand-ft-masthead?source=test`
+`https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1:brand-ft-masthead?source=test`
 
 
 ### Getting these images in a different colour/format/size
