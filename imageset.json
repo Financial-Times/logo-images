@@ -1,1 +1,56 @@
-{}
+{
+	"sourceDirectory": "src",
+	"scheme": "ftlogo",
+	"images": [
+		{
+			"name": "brand-brexit",
+			"extension": "svg",
+			"path": "src/brand-brexit.svg"
+		},
+		{
+			"name": "brand-fastft-uncoloured",
+			"extension": "svg",
+			"path": "src/brand-fastft-uncoloured.svg"
+		},
+		{
+			"name": "brand-fastft",
+			"extension": "svg",
+			"path": "src/brand-fastft.svg"
+		},
+		{
+			"name": "brand-ft-logo-square-coloured",
+			"extension": "svg",
+			"path": "src/brand-ft-logo-square-coloured.svg"
+		},
+		{
+			"name": "brand-ft-logo-square",
+			"extension": "svg",
+			"path": "src/brand-ft-logo-square.svg"
+		},
+		{
+			"name": "brand-ft-masthead",
+			"extension": "svg",
+			"path": "src/brand-ft-masthead.svg"
+		},
+		{
+			"name": "brand-ft",
+			"extension": "svg",
+			"path": "src/brand-ft.svg"
+		},
+		{
+			"name": "brand-myft",
+			"extension": "svg",
+			"path": "src/brand-myft.svg"
+		},
+		{
+			"name": "brand-nikkei-tagline",
+			"extension": "svg",
+			"path": "src/brand-nikkei-tagline.svg"
+		},
+		{
+			"name": "brand-us-election-2016",
+			"extension": "svg",
+			"path": "src/brand-us-election-2016.svg"
+		}
+	]
+}
