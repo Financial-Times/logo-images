@@ -51,6 +51,11 @@
 			"name": "brand-us-election-2016",
 			"extension": "svg",
 			"path": "src/brand-us-election-2016.svg"
+		},
+		{
+			"name": "brand-ft-weekend-masterhead",
+			"extension": "svg",
+			"path": "src/brand-ft-weekend-masterhead.svg"
 		}
 	]
 }
