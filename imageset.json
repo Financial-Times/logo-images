@@ -33,6 +33,11 @@
 			"path": "src/brand-ft-masthead.svg"
 		},
 		{
+			"name": "brand-ft-weekend-masterhead",
+			"extension": "svg",
+			"path": "src/brand-ft-weekend-masterhead.svg"
+		},
+		{
 			"name": "brand-ft",
 			"extension": "svg",
 			"path": "src/brand-ft.svg"
