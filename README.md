@@ -25,9 +25,9 @@ So to get the FT masthead:
 
 ### Getting these images in a different colour/format/size
 
-The Image Service will convert these images on the fly if you pass in the right parameters. To find out more about this, please see the [Image Service documentation](https://www.ft.com/__origami/service/image/v2/docs/api)
+The Image Service will convert these images on the fly if you pass in the right parameters. To find out more about this, please see the [Image Service documentation](https://www.ft.com/__origami/service/image/v2/docs/api).
 
-## Adding or modifying logos
+### Adding or modifying logos
 
 To keep logo images consistent, please follow these guidelines:
 
