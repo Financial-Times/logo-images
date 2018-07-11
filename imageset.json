@@ -41,6 +41,7 @@
 			"name": "brand-ft-logo-squared-bw",
 			"extension": "svg",
 			"path": "src/brand-ft-logo-squared-bw.svg",
+			"previousHash": "65a4bed5d0a331ef730f933c6105f9eec754d6915703fb469fd283adcc778f6b6bf7cd13dff31be6c4b3569e716514dcd5e9af8c914221cc9e4ad58e87daf40b",
 			"hash": "65a4bed5d0a331ef730f933c6105f9eec754d6915703fb469fd283adcc778f6b6bf7cd13dff31be6c4b3569e716514dcd5e9af8c914221cc9e4ad58e87daf40b"
 		},
 		{
@@ -84,6 +85,24 @@
 			"path": "src/brand-us-election-2016.svg",
 			"previousHash": "6eac151d420dfc245d64fcab7eee3a67c1c3db55570c0fb85aa18086596fec121807f30bde13c7eb4a21f28f8c7b2addf016558740a83f9f8ce23b07007e0714",
 			"hash": "6eac151d420dfc245d64fcab7eee3a67c1c3db55570c0fb85aa18086596fec121807f30bde13c7eb4a21f28f8c7b2addf016558740a83f9f8ce23b07007e0714"
+		},
+		{
+			"name": "dewey-dark",
+			"extension": "svg",
+			"path": "src/dewey-dark.svg",
+			"hash": "17a33a68f9695334c15d12bcbe3b970d9f958ed357fd238b056143dcd78e0246206d54e255f88bad0e7857341dddfd810ec802662d5ecb7c3ab6cf362f04146f"
+		},
+		{
+			"name": "dewey-light",
+			"extension": "svg",
+			"path": "src/dewey-light.svg",
+			"hash": "1d1e82a6bd66fdc1c01b0336591dba162da970ab2b68c0f682b97cdc7b8328d58ab558a167cefa4fac360729a623dbd43e824cedf4c9d16ad3591895b9258414"
+		},
+		{
+			"name": "origami",
+			"extension": "svg",
+			"path": "src/origami.svg",
+			"hash": "a601a979aef6e38299dc22501508ee0f490dfd330586fe124ba475a1757c4232b9238ed2bace3da92c83785e535e5c71ba1bebe1498b844b327d2fd62984d782"
 		}
 	]
 }
