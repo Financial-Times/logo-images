@@ -90,18 +90,21 @@
 			"name": "dewey-dark",
 			"extension": "svg",
 			"path": "src/dewey-dark.svg",
+			"previousHash": "17a33a68f9695334c15d12bcbe3b970d9f958ed357fd238b056143dcd78e0246206d54e255f88bad0e7857341dddfd810ec802662d5ecb7c3ab6cf362f04146f",
 			"hash": "17a33a68f9695334c15d12bcbe3b970d9f958ed357fd238b056143dcd78e0246206d54e255f88bad0e7857341dddfd810ec802662d5ecb7c3ab6cf362f04146f"
 		},
 		{
 			"name": "dewey-light",
 			"extension": "svg",
 			"path": "src/dewey-light.svg",
+			"previousHash": "1d1e82a6bd66fdc1c01b0336591dba162da970ab2b68c0f682b97cdc7b8328d58ab558a167cefa4fac360729a623dbd43e824cedf4c9d16ad3591895b9258414",
 			"hash": "1d1e82a6bd66fdc1c01b0336591dba162da970ab2b68c0f682b97cdc7b8328d58ab558a167cefa4fac360729a623dbd43e824cedf4c9d16ad3591895b9258414"
 		},
 		{
 			"name": "origami",
 			"extension": "svg",
 			"path": "src/origami.svg",
+			"previousHash": "a601a979aef6e38299dc22501508ee0f490dfd330586fe124ba475a1757c4232b9238ed2bace3da92c83785e535e5c71ba1bebe1498b844b327d2fd62984d782",
 			"hash": "a601a979aef6e38299dc22501508ee0f490dfd330586fe124ba475a1757c4232b9238ed2bace3da92c83785e535e5c71ba1bebe1498b844b327d2fd62984d782"
 		}
 	]
