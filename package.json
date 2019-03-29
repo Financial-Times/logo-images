@@ -1,11 +1,10 @@
 {
-  "name": "logo-images",
+  "name": "@financial-times/logo-images",
   "version": "0.0.0",
-  "private": true,
   "engines": {
     "node": "^6"
   },
   "devDependencies": {
-    "@financial-times/origami-image-set-tools": "^1.5.1"
+    "@financial-times/origami-image-set-tools": "^2.0.0"
   }
 }
