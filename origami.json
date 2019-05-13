@@ -1,5 +1,6 @@
 {
-    "description": "Logos used in FT products",
+    "description": "Logos for FT products, including the official FT logo and logos for internal products",
+    "keywords": [ "images", "image" ],
     "origamiType": "imageset",
     "origamiVersion": 1,
     "support": "https://github.com/Financial-Times/logo-images/issues",
