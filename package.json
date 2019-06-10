@@ -2,7 +2,7 @@
   "name": "@financial-times/logo-images",
   "version": "1.9.2",
   "engines": {
-    "node": "^10"
+    "node": ">=10"
   },
   "scripts": {
     "build": "oist build-manifest --scheme ftlogo --source-directory src --host https://origami-images.ft.com/ --scheme-version $npm_package_version",
