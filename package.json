@@ -1,7 +1,7 @@
 {
     "name": "@financial-times/logo-images",
     "description": "Logos for FT products, including the official FT logo and logos for internal products",
-    "version": "4.0.0-0",
+    "version": "5.0.0-0",
     "engines": {
         "node": ">=10"
     },
