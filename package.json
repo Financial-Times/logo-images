@@ -1,14 +1,14 @@
 {
     "name": "@financial-times/logo-images",
-    "description": "Logos for FT products, including the official FT logo and logos for internal products",
     "version": "100.0.0-7",
-    "engines": {
-        "node": ">=10"
-    },
+    "description": "Logos for FT products, including the official FT logo and logos for internal products",
     "main": "./imageset.json",
     "devDependencies": {
         "@financial-times/origami-image-set-tools": "^2.3.12",
         "origami-ci-tools": "^2.1.0"
+    },
+    "engines": {
+        "node": ">=10"
     },
     "publishConfig": {
         "registry": "http://localhost:4873"
