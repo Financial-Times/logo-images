@@ -1,16 +1,27 @@
 {
-    "name": "@financial-times/logo-images",
-    "version": "100.0.0-8",
-    "description": "Logos for FT products, including the official FT logo and logos for internal products",
-    "main": "./imageset.json",
-    "devDependencies": {
-        "@financial-times/origami-image-set-tools": "^2.3.12",
-        "origami-ci-tools": "^2.1.0"
-    },
-    "engines": {
-        "node": ">=10"
-    },
-    "publishConfig": {
-        "registry": "https://origami-npm-registry-prototype.herokuapp.com"
-    }
+  "name": "@financial-times/logo-images",
+  "version": "100.0.0-10",
+  "description": "Logos for FT products, including the official FT logo and logos for internal products",
+  "keywords": [],
+  "homepage": "https://github.com/Financial-Times/logo-images#readme",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/logo-images/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financial-Times/logo-images.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "./imageset.json",
+  "devDependencies": {
+    "@financial-times/origami-image-set-tools": "^2.3.12",
+    "origami-ci-tools": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "publishConfig": {
+    "registry": "https://origami-npm-registry-prototype.herokuapp.com"
+  }
 }
