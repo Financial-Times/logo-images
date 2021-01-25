@@ -27,6 +27,20 @@
 			"url": "https://origami-images.ft.com/ftlogo/v1/brand-fastft-4a6dec3282daf82c7f5548c84efef5fab8b3b84c4aa10172e52449a31e4bb96f8f36db16ca472acbf71973df9e44fdb314d328b1b0d09381c18c08c8732c770d"
 		},
 		{
+			"name": "brand-ft-logo-landscape-coloured-inverse",
+			"extension": "svg",
+			"path": "src/brand-ft-logo-landscape-coloured-inverse.svg",
+			"hash": "2cb9770d06e3a718d4f9f6168ddd978acaaa348f6f68a9ef6d3d38de558bf8fa66b4863207e4e468f7b346cd36867b1ca391f98dd4f2242bbb3f2197a9f7baca",
+			"url": "https://origami-images.ft.com/ftlogo/v1/brand-ft-logo-landscape-coloured-inverse-2cb9770d06e3a718d4f9f6168ddd978acaaa348f6f68a9ef6d3d38de558bf8fa66b4863207e4e468f7b346cd36867b1ca391f98dd4f2242bbb3f2197a9f7baca"
+		},
+		{
+			"name": "brand-ft-logo-landscape-coloured",
+			"extension": "svg",
+			"path": "src/brand-ft-logo-landscape-coloured.svg",
+			"hash": "8384bde559516af26754ea44d3ba7ad80939d7a5333b2748cf91ab7ee46ae795541c4ce4a748324a125b198010376691160f454e281b085cc485bb9d45b67f7f",
+			"url": "https://origami-images.ft.com/ftlogo/v1/brand-ft-logo-landscape-coloured-8384bde559516af26754ea44d3ba7ad80939d7a5333b2748cf91ab7ee46ae795541c4ce4a748324a125b198010376691160f454e281b085cc485bb9d45b67f7f"
+		},
+		{
 			"name": "brand-ft-logo-square-coloured-dot",
 			"extension": "svg",
 			"path": "src/brand-ft-logo-square-coloured-dot.svg",
