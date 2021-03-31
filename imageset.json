@@ -171,6 +171,27 @@
 			"url": "https://origami-images.ft.com/ftlogo/v1/ft-text-reverse-ef88566aa183168f2859f1fab37e9c305cc141253a6a6b904f363ced79f6aaa2766d3b374927e4076c6e3937295b9130b8e78a8d884cc9b21746a2ddbacfae13"
 		},
 		{
+			"name": "nikkei-ft-horizontal-mono-reverse",
+			"extension": "svg",
+			"path": "src/nikkei-ft-horizontal-mono-reverse.svg",
+			"hash": "28edf5ca99501079d604037319cbd67b2b75f743b7135fa16d172ae82ac41f77896892716a156208466456120025ee4bb15f2ce77ae54bbb55307c6bd54f051b",
+			"url": "https://origami-images.ft.com/ftlogo/v1/nikkei-ft-horizontal-mono-reverse-28edf5ca99501079d604037319cbd67b2b75f743b7135fa16d172ae82ac41f77896892716a156208466456120025ee4bb15f2ce77ae54bbb55307c6bd54f051b"
+		},
+		{
+			"name": "nikkei-ft-horizontal-mono",
+			"extension": "svg",
+			"path": "src/nikkei-ft-horizontal-mono.svg",
+			"hash": "c01cfe4bafa27a6c0e0ee8b84df8f5d178a6ad11af611df31c656454dcc805a87fd09eb201493fd369ce6232aae734919fc7b98497b7e81f404dd64ec6a7598f",
+			"url": "https://origami-images.ft.com/ftlogo/v1/nikkei-ft-horizontal-mono-c01cfe4bafa27a6c0e0ee8b84df8f5d178a6ad11af611df31c656454dcc805a87fd09eb201493fd369ce6232aae734919fc7b98497b7e81f404dd64ec6a7598f"
+		},
+		{
+			"name": "nikkei-ft-horizontal",
+			"extension": "svg",
+			"path": "src/nikkei-ft-horizontal.svg",
+			"hash": "30c0aa3bd372c24ae4544fe2f16d96666814c0ee038a899a8f4546c0128b53e8c120ce88b76b91a268913ba9d2d3d15939021178746a9d17a7b45dec9bb35224",
+			"url": "https://origami-images.ft.com/ftlogo/v1/nikkei-ft-horizontal-30c0aa3bd372c24ae4544fe2f16d96666814c0ee038a899a8f4546c0128b53e8c120ce88b76b91a268913ba9d2d3d15939021178746a9d17a7b45dec9bb35224"
+		},
+		{
 			"name": "origami",
 			"extension": "svg",
 			"path": "src/origami.svg",
