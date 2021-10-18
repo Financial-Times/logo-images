@@ -51,6 +51,13 @@
 			"url": "https://origami-images.ft.com/ftlogo/v1/brand-ft-logo-square-coloured-dot-eb2a1b8f92fa6a945abf5c4e09fbc20554e1f571fadb7fbc7579cf94d791e091a5fedde27efae0532060760dd29e2f5a66349809be25525493394b9504287f5e"
 		},
 		{
+			"name": "brand-ft-logo-square-coloured-ftlogo-tiny-ps",
+			"extension": "svg",
+			"path": "src/brand-ft-logo-square-coloured-ftlogo-tiny-ps.svg",
+			"hash": "9633dff449f8972708ac8a6ebd754b55cceeb22fd9ace41c9c636ec81cb48ecf398a8ef939f5ce928d36b5041b5fcc642d3cd6e794ed9eb2a53a15112d273322",
+			"url": "https://origami-images.ft.com/ftlogo/v1/brand-ft-logo-square-coloured-ftlogo-tiny-ps-9633dff449f8972708ac8a6ebd754b55cceeb22fd9ace41c9c636ec81cb48ecf398a8ef939f5ce928d36b5041b5fcc642d3cd6e794ed9eb2a53a15112d273322"
+		},
+		{
 			"name": "brand-ft-logo-square-coloured-no-dot",
 			"extension": "svg",
 			"path": "src/brand-ft-logo-square-coloured-no-dot.svg",
